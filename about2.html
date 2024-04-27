@@ -1,0 +1,46 @@
+---
+title: About
+description: Bebek Lab team members.
+image: https://source.unsplash.com/L7en7Lb-Ovc/2000x1322?a=.png
+---
+
+<section class="hero" style="background-image: url({% include relative-src.html src=page.image %})">
+	<div class="inner-hero text-container">
+		<div class="hero-text-container">
+			<h1 class="editable">Our Team</h1>
+			<p class="subtext editable">We are a talented and ambitious team whose goal is to make a difference in biomedical research.</p>
+		</div>
+	</div>
+</section>
+
+{% for person in site.staff_members %}
+<section class="info">
+	<div class="container flex">
+		<div class="square-image" style="background-image: url({% include relative-src.html src=person.image_path %})"></div>
+		
+		<div class="text">
+			<h3 class="editable"><a target="_blank" href="https://twitter.com/{{ person.twitter_username }}">{{ person.name }}</a></h3>
+			<h4 class="editable">{{ person.position }}</h4>
+			<p class="editable">{{ person.blurb }}</p>
+		</div>
+	</div>
+</section>
+{% endfor %}
+
+
+
+
+
+
+
+<section class="info">
+	<div class="container flex">
+		<div class="text">
+			<h2 class="editable">Software</h2>
+			<p class="editable">Software and database design, implementaion, and dissemeniation is our niche. Check out our papers about our bioinformatics software, swipe through our galery of released tools and see our current projects.</p>
+		</div>
+		<div class="image">
+			<img class="editable" src="../images/chris-liverani-dBI_My696Rk-unsplash.jpg" alt="Screenshot" />
+		</div>
+	</div>
+</section>

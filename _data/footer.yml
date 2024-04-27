@@ -1,0 +1,26 @@
+left_links:
+  - name: About
+    link: /about/
+  - name: Contributions
+    link: /papers/
+  - name: Blog
+    link: /blog/
+  - name: Contact
+    link: /contact/
+
+right_links:
+  - name:
+    link: https://github.com/bebeklab
+    new_window: true
+    social_icon: GitHub
+  - name:
+    link: https://twitter.com/gbphd
+    social_icon: Twitter
+    new_window: true
+  - name:
+    link: https://www.linkedin.com/in/gurkanbebek
+    social_icon: LinkedIn
+    new_window: true
+  - name:
+    link: /feed.xml
+    social_icon: RSS
