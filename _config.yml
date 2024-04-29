@@ -3,7 +3,7 @@
 
 title: systems.bio
 url: "https://systems.bio"
-baseurl: /
+# baseurl: /
 root: /		
 google_analytics_key: G-49F24YHBVX
 google_maps_javascript_api_key:

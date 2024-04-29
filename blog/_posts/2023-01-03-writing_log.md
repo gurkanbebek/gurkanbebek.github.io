@@ -19,7 +19,7 @@ Writing block is real. I have personally experienced this multiple times during 
 What you do is simply keep a log of words you write per day. This motivates you to write something, and also get you started. Even if you type 100 words, just record it and see how you build up your writing. 
 
 
-There are, of course, other approaches to tackle this. There is a great TED talk about how to end procrastination. I think the core idea is same here. LetÕs just get going and see the results. 
+There are, of course, other approaches to tackle this. There is a great TED talk about how to end procrastination. I think the core idea is same here. Let's just get going and see the results. 
 
 [TED talk by Archana Murthy](https://www.youtube.com/watch?v=GTQ2xDNlLf8)
 

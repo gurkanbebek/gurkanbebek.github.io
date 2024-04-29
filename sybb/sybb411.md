@@ -1,9 +1,8 @@
 ---
 
-layout: untitled
+layout: default
 
 title: SYBB 411 - High-Throughput Technologies in Bioinformatics
-
 
 description: Explore high throughput technologies and data analysis in bioinformatics with SYBB 411
 
